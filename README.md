@@ -1,6 +1,9 @@
 ### Internship Marketplace - README
 
 ---
+<img width="145" alt="image" src="https://github.com/user-attachments/assets/09c40b96-85fe-4124-89e6-7a32ddbb09c2">
+<img width="152" alt="image" src="https://github.com/user-attachments/assets/0f916ba8-2232-487a-8600-1a52a142277e">
+
 
 #### **Vision**
 
@@ -47,6 +50,7 @@ The Internship Marketplace smart contract is designed to bridge the gap between 
 
 - **Network:** 
 - **Contract Address:** 0xD39F12a43fD40fdcc4a4881d381Ac9fdbCa3FeAe
+- 
 
 ---
 
@@ -69,4 +73,5 @@ The Internship Marketplace smart contract is designed to bridge the gap between 
 
 ---
 
-This contract is a basic yet powerful tool to manage internships on a decentralized platform. By deploying it on the blockchain, we ensure transparency, fairness, and accessibility for all participants.
+![image](https://github.com/user-attachments/assets/c2a56489-675a-48aa-b57c-e3129a59f435)
+
